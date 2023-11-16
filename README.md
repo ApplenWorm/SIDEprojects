@@ -1,2 +1,2 @@
-# SIDEproojects
+# SIDEprojects
 projects
